@@ -1,5 +1,5 @@
 # covid-19 Arizona Data
-This is a frequently updated dataset of how Coronavirus and COVID-19 is impacting Arizona and it's fifteen counties. The data is curated from two separate sources; The Arizona Department of Health daily coronavirus reporting site as well as press releases and reporting from Arizona's 15 counties, as well as the Navajo Nation.
+This is a frequently updated dataset of how Coronavirus and COVID-19 is impacting Arizona and its fifteen counties. The data is curated from two separate sources; The Arizona Department of Health daily coronavirus reporting site as well as press releases and reporting from Arizona's 15 counties, as well as the Navajo Nation.
 
 The sets break down as follows:
 
