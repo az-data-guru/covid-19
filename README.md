@@ -11,3 +11,6 @@ az_counties_hospitalized.csv
 County reports of hospitalizations in Arizona due to COVID-19. Many counties are just beginning reporting hospitalizations as of April 6th, 2020, so this dataset is not as complete as the az_counties.csv cases dataset. Where counties broke down hospitalizations by age teh dataset does so as well.
 
 
+This project is attributable to ABC 15 Phoenix.
+
+
