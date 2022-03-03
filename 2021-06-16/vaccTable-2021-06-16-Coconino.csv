@@ -1,0 +1,23 @@
+Category,Coconino
+Total_doses_administered,136108
+Total_people_one_dose,74381
+Total_people_complete,67088
+Total_doses_ordered,95710
+total_pouluation,147275
+Male-65 years and older,7247
+Male-55-64 years,5586
+Male-45-54 years,4881
+Male-20-44 years,14586
+Male-Less than 20 years,2167
+Female-65 years and older,8335
+Female-55-64 years,6321
+Female-45-54 years,5169
+Female-20-44 years,17080
+Female-Less than 20 years,2936
+"Black or African American, non-Hispanic",0.006695258197658
+"Asian or Pacific Islander, non-Hispanic",0.0145063927615923
+Hispanic or Latino,0.0632688455385112
+Other Race,0.1187400008066576
+"American Indian or Alaska Native, non-Hispanic",0.1979941113994165
+Unknown,0.216076686250521
+"White, non-Hispanic",0.3827187050456434

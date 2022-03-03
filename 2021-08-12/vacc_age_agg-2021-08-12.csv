@@ -1,0 +1,7 @@
+,Age groups aggregated-[federated.0szwy780qoq0z219gndil05kam3w].[Age Group1 (group)]-alias,AGG(total([Total number of people (LOD) (First RECIP) ]))-alias,AGG(WINDOW_MAX([Total Population Denom]))-alias
+0,<20,319567,1842004
+1,20-34,722555,1480898
+2,35-44,504832,881451
+3,45-54,533505,851820
+4,55-64,629061,868629
+5,65+,1123246,1264218

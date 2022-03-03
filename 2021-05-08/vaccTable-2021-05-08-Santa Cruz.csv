@@ -1,0 +1,23 @@
+Category,Santa Cruz
+Total_doses_administered,48190
+Total_people_one_dose,27703
+Total_people_complete,21973
+Total_doses_ordered,44700
+total_pouluation,53161
+Male-65 years and older,3351
+Male-55-64 years,2264
+Male-45-54 years,2392
+Male-20-44 years,4884
+Male-Less than 20 years,607
+Female-65 years and older,4099
+Female-55-64 years,2361
+Female-45-54 years,2398
+Female-20-44 years,4598
+Female-Less than 20 years,677
+"American Indian or Alaska Native, non-Hispanic",0.0003970689095044
+"Black or African American, non-Hispanic",0.0006497491246435
+"Asian or Pacific Islander, non-Hispanic",0.0025628993249829
+Other Race,0.0373966718405949
+Unknown,0.0812547377540339
+"White, non-Hispanic",0.1392267985416742
+Hispanic or Latino,0.7385120745045662

@@ -1,0 +1,16 @@
+category,setting,value
+Other,Private Setting (Residential),20
+Other,Religious Facility,25
+Other,College/University,56
+Other,Shelter,90
+Other,Workplace,205
+Other,Other,690
+Other,Childcare/Daycare/School,1369
+Healthcare,Dialysis Clinic,6
+Healthcare,Hospice,19
+Healthcare,Outpatient/Clinic,24
+Healthcare,Hospital,113
+Healthcare,Rehab Facility,466
+Healthcare,Long-Term Care Facility,553
+Healthcare,Assisted Living,1251
+Correctional,Prison/Detention Center,138

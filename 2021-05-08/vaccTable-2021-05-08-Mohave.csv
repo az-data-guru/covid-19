@@ -1,0 +1,23 @@
+Category,Mohave
+Total_doses_administered,115088
+Total_people_one_dose,68570
+Total_people_complete,50614
+Total_doses_ordered,117600
+total_pouluation,216985
+Male-65 years and older,18663
+Male-55-64 years,6250
+Male-45-54 years,2775
+Male-20-44 years,4140
+Male-Less than 20 years,270
+Female-65 years and older,21017
+Female-55-64 years,7775
+Female-45-54 years,3156
+Female-20-44 years,4164
+Female-Less than 20 years,300
+"Black or African American, non-Hispanic",0.0054396966603471
+"American Indian or Alaska Native, non-Hispanic",0.0063438821642118
+"Asian or Pacific Islander, non-Hispanic",0.0126585970541053
+Hispanic or Latino,0.0522823392154003
+Other Race,0.1669534781974625
+Unknown,0.2312381507948082
+"White, non-Hispanic",0.525083855913665

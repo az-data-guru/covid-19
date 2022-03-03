@@ -1,0 +1,34 @@
+Category,value
+Hospitalizations,82301
+Day,
+Day_pct,
+Apache,1116
+Cochise,952
+Coconino,1707
+Gila,885
+Graham,417
+Greenlee,63
+La Paz,319
+Maricopa,51785
+Mohave,2748
+Navajo,2133
+Pima,9002
+Pinal,5410
+Santa Cruz,632
+Yavapai,2595
+Yuma,2537
+0_5,
+Less than 20 years,3086
+20-44 years,17501
+45-54 years,11638
+55-64 years,15140
+65 years and older,34894
+Male,43207
+Female,39052
+Missing,
+"White, non-Hispanic",39703
+Hispanic or Latino,25675
+"American Indian or Alaska Native, non-Hispanic",5826
+"Black or African American, non-Hispanic",4065
+"Asian or Pacific Islander, non-Hispanic",1362
+Other Race,3558

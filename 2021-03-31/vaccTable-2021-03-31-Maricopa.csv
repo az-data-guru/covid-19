@@ -1,0 +1,23 @@
+Category,Maricopa
+Total_doses_administered,1235612
+Total_people_one_dose,774113
+Total_people_complete,508300
+Total_doses_ordered,1022815
+total_pouluation,4367835
+Male-65 years and older,135179
+Male-55-64 years,69025
+Male-45-54 years,41206
+Male-20-44 years,79428
+Male-Less than 20 years,3547
+Female-65 years and older,178377
+Female-55-64 years,89466
+Female-45-54 years,56886
+Female-20-44 years,116062
+Female-Less than 20 years,5046
+"American Indian or Alaska Native, non-Hispanic",0.0236578390569416
+"Black or African American, non-Hispanic",0.0277538809706496
+"Asian or Pacific Islander, non-Hispanic",0.0394258566036566
+Hispanic or Latino,0.0951958375637141
+"Unknown, non-Hispanic",0.1274784864149881
+"Other Race, non-Hispanic",0.1762886837638634
+"White, non-Hispanic",0.5101994156261868

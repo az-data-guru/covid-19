@@ -1,0 +1,23 @@
+Category,Gila
+Total_doses_administered,47780
+Total_people_one_dose,26364
+Total_people_complete,23681
+Total_doses_ordered,36370
+total_pouluation,55159
+Male-65 years and older,5620
+Male-55-64 years,2462
+Male-45-54 years,1463
+Male-20-44 years,2732
+Male-Less than 20 years,362
+Female-65 years and older,5958
+Female-55-64 years,2810
+Female-45-54 years,1585
+Female-20-44 years,2878
+Female-Less than 20 years,435
+"Black or African American, non-Hispanic",0.0031861629494766
+"Asian or Pacific Islander, non-Hispanic",0.008951600667577
+Hispanic or Latino,0.0422545895918677
+Other Race,0.1705735093309058
+"American Indian or Alaska Native, non-Hispanic",0.1840009103322713
+Unknown,0.1944318009406767
+"White, non-Hispanic",0.396601426187225

@@ -1,0 +1,23 @@
+Category,La Paz
+Total_doses_administered,17178
+Total_people_one_dose,9384
+Total_people_complete,8496
+Total_doses_ordered,18600
+total_pouluation,22085
+Male-65 years and older,3088
+Male-55-64 years,676
+Male-45-54 years,302
+Male-20-44 years,476
+Male-Less than 20 years,117
+Female-65 years and older,2982
+Female-55-64 years,833
+Female-45-54 years,337
+Female-20-44 years,435
+Female-Less than 20 years,124
+"Black or African American, non-Hispanic",26
+"Asian or Pacific Islander, non-Hispanic",69
+"American Indian or Alaska Native, non-Hispanic",169
+Hispanic or Latino,951
+Other Race,1065
+Unknown,2564
+"White, non-Hispanic",4540

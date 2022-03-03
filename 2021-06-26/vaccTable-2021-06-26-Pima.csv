@@ -1,0 +1,23 @@
+Category,Pima
+Total_doses_administered,843859
+Total_people_one_dose,475267
+Total_people_complete,420958
+Total_doses_ordered,596327
+total_pouluation,1044675
+Male-65 years and older,70218
+Male-55-64 years,34113
+Male-45-54 years,28443
+Male-20-44 years,66712
+Male-Less than 20 years,12884
+Female-65 years and older,92764
+Female-55-64 years,42902
+Female-45-54 years,34318
+Female-20-44 years,77934
+Female-Less than 20 years,14086
+"Black or African American, non-Hispanic",0.0182234407185856
+"American Indian or Alaska Native, non-Hispanic",0.0200708233477182
+"Asian or Pacific Islander, non-Hispanic",0.025558265143593
+Other Race,0.1278881134183522
+Unknown,0.1694373899302918
+Hispanic or Latino,0.2148371336532938
+"White, non-Hispanic",0.4239848337881654

@@ -1,0 +1,30 @@
+Category,value
+Apache,456
+Cochise,307
+Coconino,343
+Gila,250
+Graham,96
+Greenlee,14
+La Paz,85
+Maricopa,"10,943"
+Mohave,862
+Navajo,579
+Pima,"2,533"
+Pinal,957
+Santa Cruz,187
+Yavapai,597
+Yuma,870
+Female,7935
+Male,11131
+20-44y,872
+45-54y,1293
+55-64y,2837
+65+,14040
+<20y,37
+"White, non-Hispanic",9686
+Hispanic or Latino,5331
+"American Indian or Alaska Native, non-Hispanic",1548
+"Black or African American, non-Hispanic",550
+"Asian or Pacific Islander, non-Hispanic",264
+Other Race,532
+Unknown,1168

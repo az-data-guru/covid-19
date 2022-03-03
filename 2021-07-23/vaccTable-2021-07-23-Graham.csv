@@ -1,0 +1,23 @@
+Category,Graham
+Total_doses_administered,19904
+Total_people_one_dose,10885
+Total_people_complete,10034
+Total_doses_ordered,18520
+total_pouluation,38476
+Male-65 years and older,1603
+Male-55-64 years,939
+Male-45-54 years,794
+Male-20-44 years,1860
+Male-Less than 20 years,213
+Female-65 years and older,2017
+Female-55-64 years,1065
+Female-45-54 years,711
+Female-20-44 years,1405
+Female-Less than 20 years,267
+"Asian or Pacific Islander, non-Hispanic",56
+"Black or African American, non-Hispanic",66
+Other Race,861
+"American Indian or Alaska Native, non-Hispanic",874
+Hispanic or Latino,1774
+Unknown,3590
+"White, non-Hispanic",3664

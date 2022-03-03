@@ -1,0 +1,23 @@
+Category,Arizona
+Total_doses_administered,4888954
+Total_people_complete,2186715
+Total_doses_ordered,4643380
+total_pouluation,7189020
+Total_people_one_dose,2880130
+Male-65 years and older,461083
+Male-55-64 years,237966
+Male-45-54 years,181531
+Male-20-44 years,390665
+Male-Less than 20 years,41734
+Female-65 years and older,572270
+Female-55-64 years,286541
+Female-45-54 years,210289
+Female-20-44 years,441124
+Female-Less than 20 years,48740
+"Black or African American, non-Hispanic",0.0222698280980372
+"American Indian or Alaska Native, non-Hispanic",0.0234746348255113
+"Asian or Pacific Islander, non-Hispanic",0.0367438275355626
+Hispanic or Latino,0.1268855919698069
+Unknown,0.136320582751473
+Other Race,0.1712148409967606
+"White, non-Hispanic",0.4830906938228482

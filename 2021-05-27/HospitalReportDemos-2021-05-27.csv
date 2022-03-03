@@ -1,0 +1,32 @@
+Category,value
+Hospitalizations,61460
+Yuma,2247
+Yavapai,1581
+Santa Cruz,565
+Pinal,4120
+Pima,7157
+Navajo,1696
+Mohave,1924
+Maricopa,38013
+La Paz,238
+Greenlee,39
+Graham,315
+Gila,658
+Coconino,1283
+Cochise,715
+Apache,909
+Male,32329.410826210824
+Female,29130.589173789176
+Unknown,2
+65 years and older,28064
+55 - 64 years,11311
+45 - 54 years,8393
+20 - 44 years,11934
+Less than 20 years,1756
+Unknown,1941.000000000003
+"Other, Non-Hispanic",2720.000000000003
+Asian/Pacific Islander,1087.9999999999989
+"Black, Non-Hispanic",2681.9999999999995
+Native American,4766.000000000002
+Hispanic or Latino,19721.0
+"White, Non-Hispanic",28542.0

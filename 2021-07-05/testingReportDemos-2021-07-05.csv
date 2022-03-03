@@ -1,0 +1,29 @@
+Category,value
+tests,4616521
+day,
+pos,
+est_pos,
+total_pos,
+Apache,29105
+Cochise,57973
+Coconino,95394
+Gila,29020
+Graham,12287
+Greenlee,2047
+La Paz,7383
+Maricopa,2754180
+Mohave,102388
+Navajo,59740
+Pima,683152
+Pinal,284206
+Santa Cruz,29970
+Yavapai,111084
+Yuma,137840
+0_5,
+Less than 20 years,849652
+20 - 44 years,1855736
+45 - 54 years,593237
+55 - 64 years,565097
+65 years and older,742094
+Unknown,10705
+positive,0.1273487112914682

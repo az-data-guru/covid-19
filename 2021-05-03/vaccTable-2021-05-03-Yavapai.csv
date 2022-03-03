@@ -1,0 +1,23 @@
+Category,Yavapai
+Total_doses_administered,156457
+Total_people_one_dose,91521
+Total_people_complete,71320
+Total_doses_ordered,161200
+total_pouluation,232386
+Male-65 years and older,21984
+Male-55-64 years,7179
+Male-45-54 years,3728
+Male-20-44 years,6878
+Male-Less than 20 years,836
+Female-65 years and older,27426
+Female-55-64 years,9475
+Female-45-54 years,4605
+Female-20-44 years,7269
+Female-Less than 20 years,824
+"Black or African American, non-Hispanic",0.0039444499076715
+"American Indian or Alaska Native, non-Hispanic",0.0088832071327892
+"Asian or Pacific Islander, non-Hispanic",0.0117131587285978
+Hispanic or Latino,0.0485462352902613
+Other Race,0.1481408638454563
+Unknown,0.2951672293790496
+"White, non-Hispanic",0.4836048557161746

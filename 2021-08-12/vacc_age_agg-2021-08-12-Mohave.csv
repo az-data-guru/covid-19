@@ -1,0 +1,7 @@
+,First admin date per RECIP ID-value,AGG(total([Total number of people (LOD) (First RECIP) ]))-alias,AGG(WINDOW_MAX([Total Population Denom]))-alias
+0,2020-12-23,4954,21632
+1,2020-12-24,2396,14083
+2,2020-12-25,1587,7725
+3,2020-12-26,1728,8128
+4,2020-12-27,2434,9256
+5,2020-12-28,3777,10984

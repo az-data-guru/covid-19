@@ -1,0 +1,23 @@
+Category,Cochise
+Total_doses_administered,54651
+Total_people_one_dose,36224
+Total_people_complete,19948
+Total_doses_ordered,56700
+total_pouluation,130808
+Male-65 years and older,8592
+Male-55-64 years,3188
+Male-45-54 years,1544
+Male-20-44 years,2599
+Male-Less than 20 years,124
+Female-65 years and older,10158
+Female-55-64 years,4153
+Female-45-54 years,2215
+Female-20-44 years,3490
+Female-Less than 20 years,146
+"American Indian or Alaska Native, non-Hispanic",0.0031470848056537
+"Black or African American, non-Hispanic",0.0137477915194346
+"Asian or Pacific Islander, non-Hispanic",0.0171709363957597
+"Other Race, non-Hispanic",0.1550353356890459
+Hispanic or Latino,0.1590658127208481
+"Unknown, non-Hispanic",0.1711848498233216
+"White, non-Hispanic",0.4806481890459364

@@ -1,0 +1,23 @@
+Category,Apache
+Total_doses_administered,15448
+Total_people_one_dose,8958
+Total_people_complete,7225
+Total_doses_ordered,17100
+total_pouluation,71808
+Male-65 years and older,1581
+Male-55-64 years,799
+Male-45-54 years,452
+Male-20-44 years,791
+Male-Less than 20 years,730
+Female-65 years and older,1627
+Female-55-64 years,911
+Female-45-54 years,524
+Female-20-44 years,779
+Female-Less than 20 years,759
+"Asian or Pacific Islander, non-Hispanic",0.0120562625586068
+"Black or African American, non-Hispanic",0.0149586961375307
+Other Race,0.0467738334449654
+Hispanic or Latino,0.0981245813797723
+Unknown,0.1939048894842599
+"White, non-Hispanic",0.2496092877874526
+"American Indian or Alaska Native, non-Hispanic",0.3845724492074124

@@ -1,0 +1,22 @@
+Category,Pinal
+Total_doses_administered,516543
+Total_people_one_dose,252301
+Total_people_complete,219955
+total_pouluation,252301
+Male-65 years and older,37013
+Male-55-64 years,18421
+Male-45-54 years,16833
+Male-20-44 years,38468
+Male-Less than 20 years,12660
+Female-65 years and older,42566
+Female-55-64 years,20749
+Female-45-54 years,17109
+Female-20-44 years,35306
+Female-Less than 20 years,12425
+"Asian or Pacific Islander, non-Hispanic",5148
+"Black or African American, non-Hispanic",9199
+"American Indian or Alaska Native, non-Hispanic",9813
+Unknown,29942
+Other Race,31077
+Hispanic or Latino,40816
+"White, non-Hispanic",126306

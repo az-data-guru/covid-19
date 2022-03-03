@@ -1,0 +1,23 @@
+Category,Greenlee
+Total_doses_administered,9680
+Total_people_one_dose,5524
+Total_people_complete,4693
+Total_doses_ordered,12630
+total_pouluation,10375
+Male-65 years and older,575
+Male-55-64 years,637
+Male-45-54 years,567
+Male-20-44 years,1225
+Male-Less than 20 years,129
+Female-65 years and older,545
+Female-55-64 years,429
+Female-45-54 years,402
+Female-20-44 years,897
+Female-Less than 20 years,115
+"Black or African American, non-Hispanic",50
+"Asian or Pacific Islander, non-Hispanic",51
+"American Indian or Alaska Native, non-Hispanic",105
+Other Race,152
+Unknown,528
+"White, non-Hispanic",2233
+Hispanic or Latino,2405

@@ -1,0 +1,23 @@
+Category,Yuma
+Total_doses_administered,163077
+Total_people_one_dose,91594
+Total_people_complete,76666
+Total_doses_ordered,125930
+total_pouluation,229957
+Male-65 years and older,14809
+Male-55-64 years,7529
+Male-45-54 years,6235
+Male-20-44 years,15574
+Male-Less than 20 years,1138
+Female-65 years and older,16840
+Female-55-64 years,8199
+Female-45-54 years,6502
+Female-20-44 years,13196
+Female-Less than 20 years,1304
+"Black or African American, non-Hispanic",0.0036792803022032
+"Asian or Pacific Islander, non-Hispanic",0.0052296001921523
+"American Indian or Alaska Native, non-Hispanic",0.0119330960543267
+Other Race,0.078596851322139
+"White, non-Hispanic",0.1694870843068323
+Unknown,0.3505578968054676
+Hispanic or Latino,0.3805161910168789

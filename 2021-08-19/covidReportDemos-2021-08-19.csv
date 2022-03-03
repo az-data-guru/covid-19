@@ -1,0 +1,38 @@
+Category,value
+Cases,976471
+Deaths,18508
+pct_increase,
+wow,
+case_Diff,
+Death_diff,
+Apache,"12,141"
+Cochise,"12,744"
+Coconino,"19,354"
+Gila,"7,745"
+Graham,"5,885"
+Greenlee,662
+La Paz,"2,641"
+Maricopa,"616,348"
+Mohave,"27,207"
+Navajo,"17,913"
+Pima,"124,237"
+Pinal,"60,359"
+Santa Cruz,"8,369"
+Yavapai,"22,463"
+Yuma,"38,403"
+0_5,
+<20y,169133
+20-44y,430517
+45-54y,139932
+55-64y,113462
+65+,123092
+%null%,335
+Male,470743
+Female,501892
+"White, non-Hispanic",372495
+Hispanic or Latino,287925
+"American Indian or Alaska Native, non-Hispanic",46733
+"Black or African American, non-Hispanic",33444
+"Asian or Pacific Islander, non-Hispanic",14301
+Other Race,54698
+Unknown,166875

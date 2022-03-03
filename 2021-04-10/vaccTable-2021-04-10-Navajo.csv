@@ -1,0 +1,23 @@
+Category,Navajo
+Total_doses_administered,37469
+Total_people_one_dose,23607
+Total_people_complete,16049
+Total_doses_ordered,34300
+total_pouluation,112825
+Male-65 years and older,4997
+Male-55-64 years,2204
+Male-45-54 years,1332
+Male-20-44 years,2233
+Male-Less than 20 years,599
+Female-65 years and older,5368
+Female-55-64 years,2524
+Female-45-54 years,1504
+Female-20-44 years,2214
+Female-Less than 20 years,668
+"Black or African American, non-Hispanic",0.0049883745508349
+"Asian or Pacific Islander, non-Hispanic",0.0084125977594589
+Hispanic or Latino,0.0487423377721412
+"Unknown, non-Hispanic",0.087719298245614
+"American Indian or Alaska Native, non-Hispanic",0.2083280490382583
+"Other Race, non-Hispanic",0.2211794546607483
+"White, non-Hispanic",0.4206298879729445
